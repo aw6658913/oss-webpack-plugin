@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "co": "^4.6.0",
+    "color": "^3.1.2",
+    "request": "^2.88.2"
+  },
+  "deprecated": false,
+  "description": "when build ,it can auto update static resources to aliyun oss",
+  "keywords": [
+    "front-end",
+    "web",
+    "webpack",
+    "plugin",
+    "building tool",
+    "aliyun",
+    "oss"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "oss-webpack-plugin",
+  "scripts": {},
+  "version": "0.2.8",
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
+  },
+  "author": ""
+}
