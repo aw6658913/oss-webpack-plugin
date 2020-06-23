@@ -15,6 +15,10 @@
     "aliyun",
     "oss"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aw6658913/oss-webpack-plugin.git"
+  },
   "license": "MIT",
   "main": "index.js",
   "name": "oss-webpack-plugin",
